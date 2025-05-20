@@ -1,4 +1,5 @@
 import { useParams, Link } from 'react-router-dom'
+import { usePoketmon } from '../contexts/PoketmonContext'
 import styled from 'styled-components'
 
 const Container = styled.div`
@@ -71,7 +72,8 @@ const AddButton = styled.button`
 `
 
 
-function DexDetail({ poketmonList, addPoketmon }) {
+function DexDetail({ poketmonList }) {
+  const { addPoketmon} = usePoketmon()
   const { id } = useParams()
   const poketmon = poketmonList.find((p) => p.id === Number(id))
 

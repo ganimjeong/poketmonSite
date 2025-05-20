@@ -1,5 +1,6 @@
-import styled from 'styled-components'
 import { Link } from 'react-router-dom'
+import { usePoketmon } from '../contexts/PoketmonContext'
+import styled from 'styled-components'
 
 const Card = styled.div`
   border: 2px solid #ffcc00;
@@ -62,7 +63,8 @@ const AddButton = styled.button`
   }
 `
 
-function PoketmonCard({ poketmon, addPoketmon }) {
+function PoketmonCard({ poketmon }) {
+  const { addPoketmon} = usePoketmon()
   return (
     <Card>
       <PoketmonImage src={poketmon.image} alt={poketmon.name} />

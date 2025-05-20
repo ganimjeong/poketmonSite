@@ -48,9 +48,7 @@ function Home() {
       <Title>포켓몬 도감</Title>
       <LogoImg
         src="https://static.vecteezy.com/system/resources/previews/027/127/571/non_2x/pokemon-logo-pokemon-icon-transparent-free-png.png"
-        alt="Pokémon Logo"
-        width="240"
-        height="auto"
+        alt="Poketmon Logo"
       />
       <DevLinkBtn onClick={() => navigate('/dex')}>포켓몬 도감 시작하기!</DevLinkBtn>
     </Container>

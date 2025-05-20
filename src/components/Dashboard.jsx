@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import { usePoketmon } from '../contexts/PoketmonContext'
 
 
 const SelectedContainer = styled.div`
@@ -39,7 +40,8 @@ const SmallSpan = styled.span`
     margin-bottom: 10px;
   `
 
-const Dashboard = ({selected, removePoketmon}) => {
+const Dashboard = () => {
+    const { selected, removePoketmon} = usePoketmon()
   return (
     <SelectedContainer>
         {[...Array(6)].map((_, index) => {
