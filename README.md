@@ -8,7 +8,7 @@ This project was designed to explore both **prop-drilling** and **Context API** 
 ## 📚 Table of Contents
 - [English](#-english)
 - [한국어](#-한국어)
-- [How to Run Locally](#-HowtoRunLocally)
+- [How to Run Locally](#-how-to-run-locally)
 
 ---
 
