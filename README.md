@@ -90,6 +90,7 @@ The focus was on implementing and comparing **prop-drilling** and **Context API*
    ```
    npm install
    ```
+   - `yarn dev` if you use yarn
 3. Run the development server
 
    ```
