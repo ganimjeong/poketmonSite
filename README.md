@@ -47,9 +47,9 @@ The focus was on implementing and comparing **prop-drilling** and **Context API*
 | -------------------------- | ------------------------------ | ---------------------------- |
 | ![home](./screenshots/start.png) | ![detail](./screenshots/main.png) | ![mydex](./screenshots/detail.png) |
 
-| Home Page                  | Detail View                    | My Dex                       |
+| Add logic                | Delete logic                 | Add logic in Detail View             |
 | -------------------------- | ------------------------------ | ---------------------------- |
-| ![home](./screenshots/logic1.png) | ![detail](./screenshots/logic2.png) | ![mydex](./screenshots/detail.png) |
+| ![home](./screenshots/logic1.png) | ![detail](./screenshots/logic2.png) | ![mydex](./screenshots/logic3.png) |
 
 
 ---
