@@ -8,7 +8,7 @@ This project was designed to explore both **prop-drilling** and **Context API** 
 ## 📚 Table of Contents
 - [English](#-english)
 - [한국어](#-한국어)
-- [How to Run Locally](#-how-to-run-locally)
+- [How to Run Locally](#%EF%B8%8F-how-to-run-locally)
 
 ---
 
@@ -18,10 +18,6 @@ This project was designed to explore both **prop-drilling** and **Context API** 
 
 This project is a Pokédex web application built with React. It allows users to browse, search, and manage Pokémon in their own collection.  
 The focus was on implementing and comparing **prop-drilling** and **Context API** for state management.
-
-### 🔗 Live Demo
-
-👉 [View the deployed project](https://ganimjeong.github.io/poketmonSite)  
 
 ### 🔧 Tech Stack
 
@@ -55,9 +51,6 @@ The focus was on implementing and comparing **prop-drilling** and **Context API*
 이 프로젝트는 React로 구축된 포켓덱스 웹 애플리케이션입니다. 사용자가 자신의 포켓몬 컬렉션을 탐색, 검색, 관리할 수 있습니다.  
 상태 관리를 위해 **prop-drilling**과 **Context API**를 구현하고 비교하는 데 중점을 두었습니다.
 
-### 🔗 라이브 데모 보기
-
-👉 [배포된 프로젝트 보기](https://ganimjeong.github.io/poketmonSite)  
 
 ### 🔧 기술 스택
 
@@ -84,7 +77,7 @@ The focus was on implementing and comparing **prop-drilling** and **Context API*
 
 ---
 
-### 🖥️ How to Run Locally
+## 🖥️ How to Run Locally
 
 1. Clone the repository  
    ```
