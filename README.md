@@ -42,6 +42,16 @@ The focus was on implementing and comparing **prop-drilling** and **Context API*
 - ⚙️ Control global state and side effects with `useEffect`, `useRef`  
 - 🧪 Validate input and business logic globally
 
+### 🖼️ Screenshots
+| Start Page                  | My Dex                  | Detail View                       |
+| -------------------------- | ------------------------------ | ---------------------------- |
+| ![home](./screenshots/start.png) | ![detail](./screenshots/main.png) | ![mydex](./screenshots/detail.png) |
+
+| Home Page                  | Detail View                    | My Dex                       |
+| -------------------------- | ------------------------------ | ---------------------------- |
+| ![home](./screenshots/logic1.png) | ![detail](./screenshots/logic2.png) | ![mydex](./screenshots/detail.png) |
+
+
 ---
 
 ## 🇰🇷 한국어
