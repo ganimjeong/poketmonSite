@@ -8,6 +8,7 @@ This project was designed to explore both **prop-drilling** and **Context API** 
 ## 📚 Table of Contents
 - [English](#-english)
 - [한국어](#-한국어)
+- [How to Run Locally](#-HowtoRunLocally)
 
 ---
 
@@ -83,4 +84,23 @@ The focus was on implementing and comparing **prop-drilling** and **Context API*
 
 ---
 
+### 🖥️ How to Run Locally
+
+1. Clone the repository  
+   ```
+   bash
+   git clone https://github.com/yourusername/pokemon-dex.git
+   cd pokemon-dex
+   ```
+2. Install dependencies
+
+   ```
+   npm install
+   ```
+3. Run the development server
+
+   ```
+   npm run dev
+   ```
+4. Visit http://localhost:5173 in your browser
 
